@@ -1,3 +1,16 @@
 busybox-1.36.1/_install
+busybox-1.36.1/applets
+busybox-1.36.1/archival
+busybox-1.36.1/console-tools
+busybox-1.36.1/coreutils
+busybox-1.36.1/.busybox_unstripped.cmd
+busybox-1.36.1/.config
+busybox-1.36.1/.config.old
+busybox-1.36.1/.kconfig.d
+busybox-1.36.1/.kernelrelease
+busybox-1.36.1/
+busybox-1.36.1/
+
+
 linux/build
 .vscode/
