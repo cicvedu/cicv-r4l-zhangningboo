@@ -21,3 +21,9 @@ make LLVM=1 -j$(nproc)
 - 1、编译成内核模块，是在哪个文件中以哪条语句定义的？
 
 - 2、该模块位于独立的文件夹内，却能编译成Linux内核模块，这叫做out-of-tree module，请分析它是如何与内核代码产生联系的？
+
+
+实验结果
+- C版本驱动测试![C版本驱动测试](./images/homework2/C版本驱动测试.png)
+- 取消C版本驱动 ![取消C版本驱动](./images/homework2/取消C版本驱动.png)
+- Rust配置网卡 ![Rust配置网卡](./images/homework2/实验结果.png)
